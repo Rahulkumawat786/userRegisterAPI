@@ -46,6 +46,7 @@ Take a note of this token that is returned during login
 
 3. Upload Image
 API Endpoint= POST: http://localhost:8080/upload
+
 (a) first assign the Authorization using Bearer Toekn
 ![image](https://user-images.githubusercontent.com/75028176/203973714-bc7c6a46-d77b-4c9b-babb-3411a074cd89.png)
 
